@@ -1,6 +1,6 @@
 /*
 ** Random String Count
-** Membuat random 2 string dan menghitung hasil dari 2 perubahan ke dalam 2 variabel
+** Membuat random 2 string dan menghitung hasil dari 2 perubahan ke dalam 2 variabelhhh
 ** Konsep mirip dengan fliip coin hny dengan tambahan penampung data dari hasil flip coin
 */
 <?php
